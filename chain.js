@@ -15,4 +15,4 @@ const products = {
     ]
 }
 
-console.log(products.data[0].name);
+console.log(products.data[1].name);
