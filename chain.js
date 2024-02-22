@@ -14,5 +14,6 @@ const products = {
         {id: 2, name: 'Lenovo Ipad', price: 45000},
     ]
 }
-
+ 
 console.log(products.data[1].name);
+
